@@ -8,7 +8,7 @@ class ProcurementBi1ApplicationTests {
 
 	@Test
 	void contextLoads() {
-		int a=b+c;
+		int a=b+c+d;
 	}
 
 }
